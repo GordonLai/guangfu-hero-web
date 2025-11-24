@@ -215,7 +215,7 @@ export default function HomePage() {
         <h3 className="text-center text-[16px] font-normal text-[var(--gray)]">
           提供居民需要的協助與資訊
         </h3>
-        <h3 className="homeTitle pb-3">
+        <h3 className="homeTitle py-3">
           <div className="flex items-center gap-2">
             <svg
               width="32"

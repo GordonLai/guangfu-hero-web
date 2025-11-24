@@ -88,7 +88,7 @@ export default function VictimAssistance({ initialCategory = '補助貸款' }: V
       <div className="flex justify-between items-center mb-6">
         <button
           onClick={() => setIsBottomSheetOpen(true)}
-          className="flex items-center gap-2 text-black font-medium text-lg hover:opacity-80 transition-opacity"
+          className="flex items-center gap-2 text-black font-medium text-2xl hover:opacity-80 transition-opacity"
         >
           <span>{selectedCategory}</span>
           <svg
